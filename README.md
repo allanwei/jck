@@ -1,17 +1,6 @@
-# shop_delivery
-
-Original Design: https://cdn.dribbble.com/users/2890004/screenshots/8878724/media/c9b349434f8f4fef5beab068a6bfd907.png
-
+# jck
 Donation Links:
-<a href="https://www.buymeacoffee.com/bi3cp0Zk5">Buy Me A Coffee!</a>
-
-Bitcoin Address: bc1q7hvpgfw29ckxdhckvd5j3fcedgqx40vk687a0h 
-
-Result:
-
-<img src="screenshot1.png">
-<img src="screenshot2.png">
-<img src="screenshot3.png">
+<a href="https://www.buymeacoffee.com/allanwei">Buy Me A Coffee!</a>
 
 ## Getting Started
 
